@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+li,
+h1 {
+    padding: 15px 30px;
+}
+a {
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
